@@ -1,0 +1,17 @@
+---
+author: Ketil Malde
+date: July, 2017
+title: Welcome to marint.net!
+tags: meta
+published: 2017-07-01
+summary:  Marint.net is a network for researchers and engineers
+  working with machine learning in marine and aquatic science.
+---
+
+Marint.net is a network for researchers and others working with
+machine learning technologies in the context of marine and aquatic
+science and management.  The network is centered around a grant
+proposal to EU's COST program, which we hope will finance important
+activities including networking and knowledge exchange, building
+important capability to leverage these tools for the benefit of our
+oceans and freshwater resources.

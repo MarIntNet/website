@@ -1,0 +1,24 @@
+<div id="tagcloud">
+  <h2>tags</h2>
+  $tagcloud$
+</div>
+<h1>$title$</h1>
+<ul>
+    $for(posts)$
+        <li>
+            <strong><a href="$url$">$title$</a></strong> - $date$
+            <em>$tags$</em> <br>
+            <a href="$url$#disqus_thread">Comments</a>
+        </li>
+    $endfor$
+</ul>
+<script type="text/javascript">
+var disqus_shortname = 'ketil';
+(function () {
+var s = document.createElement('script'); s.async = true;
+s.type = 'text/javascript';
+s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+}());
+</script>
+
