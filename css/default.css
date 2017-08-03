@@ -111,9 +111,8 @@ div#navbar a:hover { color: #FA2; }
 	  }
 
 #logo { position: absolute; 
-        top: 10px; 
-	left: 10px;
-	background: #FFF;
+        top: 5px;
+	left: 15px;
       }
 
 #tagcloud {
